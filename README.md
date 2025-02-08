@@ -7,6 +7,6 @@ A Java-based Airline Management System that enables efficient management of airl
 
 🛠️ Technologies Used
 Java (Swing/JavaFX for GUI, if applicable)
-MySQL/PostgreSQL (for database management)
+MySQL (for database management)
 JDBC (for database connectivity)
 Object-Oriented Programming (OOP) principles
